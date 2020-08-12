@@ -1,12 +1,12 @@
 //creating a to do list
 
 -[x] Query 1
--[ ] Query 2
--[ ] Query 3
--[ ] Query 4
--[ ] Query 5
--[ ] Query 6
--[ ] Query 7 
--[ ] Query 8 
--[ ] Query 9 
--[ ] Query 10 
+-[x] Query 2
+-[x] Query 3
+-[x] Query 4
+-[x] Query 5
+-[x] Query 6
+-[x] Query 7 
+-[x] Query 8 
+-[x] Query 9 
+-[x] Query 10 
