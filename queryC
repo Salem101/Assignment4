@@ -1,0 +1,16 @@
+//Show all details of the presidential winners:
+
+Theodore Roosevelt
+Woodrow Wilson
+Jimmy Carter
+Barack Obama
+
+//I used the 'LIKE' and the 'OR' to get all info where winner was like president's name
+
+
+SELECT * 
+FROM nobel 
+WHERE winner LIKE 'Theodore Roosevelt' 
+OR winner LIKE 'Woodrow Wilson'
+OR winner LIKE 'Jimmy Carter'
+OR winner LIKE 'Barack Obama'
